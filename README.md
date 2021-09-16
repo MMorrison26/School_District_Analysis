@@ -5,13 +5,11 @@ The Chief Data Scientist for a city school district, Maria, needs to analyze the
 Based upon our results before and after removing Thomas HS 9th graders, here is what we found:
 * Given the size of the data, the swap in THS scores hardly affected the overall district summary - just slightly higher.
 * The school summary is pretty telling because Thomas High School goes from only 65% passing up to 91% passing overall.
-Before Replacing:
+  * Before Replacing:
+  ![image](https://user-images.githubusercontent.com/87578449/133528408-58cb7eb6-752d-4539-879c-0f6a1defe6b5.png)
 
-![image](https://user-images.githubusercontent.com/87578449/133528408-58cb7eb6-752d-4539-879c-0f6a1defe6b5.png)
-
-After Replacing:
-
-![image](https://user-images.githubusercontent.com/87578449/133528372-da541730-5765-48ea-b8f3-6738190edc08.png)
+  * After Replacing:
+  ![image](https://user-images.githubusercontent.com/87578449/133528372-da541730-5765-48ea-b8f3-6738190edc08.png)
 
 * Replacing the 9th graders' math/reading scores brings Thomas HS up to #2 in the overall rankings.
 ![image](https://user-images.githubusercontent.com/87578449/133527489-c241dee0-f705-45cb-a65d-13c4904ad46e.png)
